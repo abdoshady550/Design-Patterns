@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Bridge.Payment/Bridge.Payments.csproj" Id="d22d5e3a-9895-4246-9c88-ededb3e12630" />
+  <Project Path="Decorator.IceCreamShop/Decorator.IceCreamShop.csproj" Id="2a6172b0-c8e9-4f20-af7a-51a807b28b9c" />
+  <Project Path="Mediator.SmartHome/Mediator.SmartHome.csproj" Id="0064e112-7418-4221-94d1-d15487d44413" />
+  <Project Path="Menu_Order.Factory_Pattern/Menu_Order.Factory_Pattern.csproj" />
+  <Project Path="Prototype.Demo/Prototype.Demo.csproj" Id="7acbdf40-70b2-4392-9d29-e605c57ebbc0" />
+  <Project Path="ServiceLocatorDemo/ServiceLocatorDemo.csproj" Id="a0f22697-7055-4ff9-a5ad-7aa734d5df9d" />
+  <Project Path="Singleton.Logging/Singleton.Logging.csproj" />
+</Solution>
